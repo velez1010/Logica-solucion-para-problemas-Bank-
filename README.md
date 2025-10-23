@@ -87,4 +87,23 @@ El proyecto sigue una arquitectura típica de **Spring Boot**, con una separaci�
 
  ---
 
- ![FUNCIONAMIENTO DE THUNDER CLIENT EN EL PUERTO 8080](./images/prueba arranca thunder client.png)
+## 📡 Pruebas con Thunder Client
+
+### ⚙️ FUNCIONAMIENTO DE THUNDER CLIENT EN EL PUERTO 8080
+![FUNCIONAMIENTO DE THUNDER CLIENT EN EL PUERTO 8080](./prueba%20arranca%20thunder%20client.png)
+
+---
+
+### 📥 PRUEBA SIRVE EL GET
+![PRUEBA SIRVE EL GET](./PRUEBA%20SIRVE%20EL%20GET.png)
+
+---
+
+### 🔍 PRUEBA SIRVE GET POR ID
+![PRUEBA SIRVE GET POR ID](./PRUEBA%20SIRVE%20GET%20POR%20ID.png)
+
+---
+
+### 📤 PRUEBA SIRVE EL POST
+![PRUEBA SIRVE EL POST](./prueba%20sirve%20el%20POST.png)
+
