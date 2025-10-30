@@ -118,6 +118,7 @@ El proyecto sigue una arquitectura típica de **Spring Boot**, con una separaci�
 ![Crear cuenta](./crear%20cuenta.png)
 ![Obtener cuentas por ID](./obtener%20cuentas%20por%20id.png)
 ![Obtener cuentas](./obtener%20cuentas.png)
+![Obtener transacciones por ID de cuenta](./obtener%20transacciones%20por%20id%20cuenta.png)
 
 ## 💵 Operaciones
 ![Depositar](./depositar.png)
