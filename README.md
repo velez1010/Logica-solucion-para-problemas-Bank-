@@ -107,3 +107,5 @@ El proyecto sigue una arquitectura típica de **Spring Boot**, con una separaci�
 ### 📤 PRUEBA SIRVE EL POST
 ![PRUEBA SIRVE EL POST](./prueba%20sirve%20el%20POST.png)
 
+### 🤖 PRUEBA SWAGGER (COMPLETAS)
+
