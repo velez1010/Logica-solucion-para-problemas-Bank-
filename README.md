@@ -109,3 +109,20 @@ El proyecto sigue una arquitectura típica de **Spring Boot**, con una separaci�
 
 ### 🤖 PRUEBA SWAGGER (COMPLETAS)
 
+## 🧾 Clientes
+![Crear cliente](./crear%20cliente.png)
+![Obtener cliente por ID](./obtener%20cliente%20por%20id.png)
+![Obtener cliente](./obtener%20cliente.png)
+
+## 💰 Cuentas y Transacciones
+![Crear cuenta](./crear%20cuenta.png)
+![Obtener cuentas por ID](./obtener%20cuentas%20por%20id.png)
+![Obtener cuentas](./obtener%20cuentas.png)
+
+## 💵 Operaciones
+![Depositar](./depositar.png)
+![Retirar dinero](./retirar%20dinero.png)
+![Transferencias](./transferencias.png)
+
+## 📈 Intereses
+![Intereses](./intereses.png)
